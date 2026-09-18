@@ -38,7 +38,7 @@
     "node-postal": "^1.3.0",
     "pbf2json": "^7.0.0",
     "pelias-config": "^7.0.0",
-    "pelias-logger": "^1.2.1",
+    "pelias-logger": "^2.0.0",
     "quadtree": "^1.1.3",
     "require-dir": "^1.0.0",
     "serve-index": "^1.8.0",
